@@ -1,0 +1,19 @@
+.hero {
+  width: 100vw;
+  height: 607px;
+  position: relative;
+}
+.hero img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.catchcopy {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  margin: auto;
+  font-size: 42px;
+  height: 42px;
+  padding-left: 3%;
+}

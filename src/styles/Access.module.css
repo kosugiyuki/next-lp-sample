@@ -1,0 +1,7 @@
+.access_inner {
+  display: flex;
+  gap: 24px;
+}
+.access_inner > * {
+  width: 50%;
+}
